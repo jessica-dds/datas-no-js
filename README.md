@@ -1,1 +1,1 @@
-# datas-no-js
+Atividade desenvolvida durante o curso Full Stack da Cubos Academy.
